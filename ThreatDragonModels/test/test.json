@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "test",
-    "owner": "bruno"
+    "owner": "bruno",
+    "description": "test"
   },
   "detail": {
     "contributors": [],
